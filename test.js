@@ -8,7 +8,7 @@ function findLongestWord(words) {
     }
     return longestWord;
 }
-  console.log(findLongestWord(["Java", "Python", "JavaScript"]));
+console.log(findLongestWord(["Java", "Python", "JavaScript"]));
 //2
 function sumUniqueNumbers(numbers) {
     const uniqueNumbers = {};
